@@ -1,0 +1,8 @@
+{
+  "client_id": "https://raw.githubusercontent.com/x1xhlol/wos-cimd/main/client.json",
+  "client_name": "WOS Test App",
+  "redirect_uris": ["https://webhook.site/e09f885c-96a7-4540-a219-660c1236ded3/cb"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
